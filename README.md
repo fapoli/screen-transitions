@@ -1,5 +1,5 @@
 # ScreenTransitions
-An Unity Component which allows playing transition animations between scenes. 
+A Unity Component which allows playing transition animations, which can be used between scenes.
 
 ## Package Contents
 The project is divided into 3 folders:
