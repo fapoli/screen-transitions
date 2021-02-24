@@ -49,7 +49,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 347616548369739663}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8c985f68381505d590b0ab77863c338, type: 3}
+  m_Script: {fileID: 11500000, guid: 97903f3329b483faea6c0d82846b1313, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animators:
@@ -200,8 +200,8 @@ CanvasGroup:
   m_GameObject: {fileID: 347616549230880033}
   m_Enabled: 1
   m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!95 &347616549230880045
 Animator:
@@ -213,7 +213,7 @@ Animator:
   m_GameObject: {fileID: 347616549230880033}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: d8e3eaa5035d7d37dbdb89e7cbf4ceba, type: 2}
+  m_Controller: {fileID: 9100000, guid: adb79565dcc4e0a24a58fec4a3332161, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

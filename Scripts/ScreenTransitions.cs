@@ -11,9 +11,6 @@ public class ScreenTransitions : MonoBehaviour
 
     private void Start()
     {
-        if (!instance)
-            return;
-
         foreach (var animator in animators)
             animatorsByName[animator.name] = animator.animator;
 
